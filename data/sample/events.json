@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2026-10-23T09:00:00Z",
+    "source_ip": "198.51.100.24",
+    "destination_ip": "192.0.2.10",
+    "destination_port": 22,
+    "protocol": "SSH",
+    "event_type": "authentication_failure"
+  },
+  {
+    "timestamp": "2026-10-23T09:00:15Z",
+    "source_ip": "198.51.100.24",
+    "destination_ip": "192.0.2.10",
+    "destination_port": 22,
+    "protocol": "SSH",
+    "event_type": "authentication_failure"
+  },
+  {
+    "timestamp": "2026-10-23T09:00:30Z",
+    "source_ip": "198.51.100.24",
+    "destination_ip": "192.0.2.10",
+    "destination_port": 22,
+    "protocol": "SSH",
+    "event_type": "authentication_failure"
+  },
+  {
+    "timestamp": "2026-10-23T09:01:00Z",
+    "source_ip": "203.0.113.55",
+    "destination_ip": "192.0.2.10",
+    "destination_port": 22,
+    "protocol": "SSH",
+    "event_type": "authentication_failure"
+  },
+  {
+    "timestamp": "2026-10-23T09:02:00Z",
+    "source_ip": "203.0.113.80",
+    "destination_ip": "192.0.2.10",
+    "destination_port": 22,
+    "protocol": "SSH",
+    "event_type": "authentication_success"
+  }
+]
